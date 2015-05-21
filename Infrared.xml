@@ -328,6 +328,15 @@
                                     </next>
                                   </block>
                                 </statement>
+                                <next>
+                                  <block type="oled_cleardisplay" id="178">
+                                    <next>
+                                      <block type="oled_drawtext" id="179">
+                                        <field name="TEXT">None</field>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </next>
                               </block>
                             </next>
                           </block>
